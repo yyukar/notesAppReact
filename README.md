@@ -7,7 +7,7 @@ Create colorful notes, search instantly, open notes in a modal to read the full 
 
 ## Live Demo
 
-- [Vercel live demo]()
+- [Vercel live demo](https://notes-app-react-puce.vercel.app/)
 
 ---
 
